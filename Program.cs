@@ -1,4 +1,6 @@
-﻿namespace AnyThingYouLike
+﻿using System;
+
+namespace AnyThingYouLike
 {
     internal class Program
     {
@@ -6,10 +8,9 @@
         {
             Console.WriteLine("Hello, World form Jared");
             Console.WriteLine("Hello, World form Logan H ");
-            Console.WriteLine( "f fdf sd ' fds 'f s");
-
-            Console.WriteLine("hello world from the better logan B");
- 
+            Console.WriteLine("Hello, World from Michael.");
+          Console.WriteLine("hello world from the better logan B");
+            Console.WriteLine("f fdf sd ' fds 'f s");
 
         }
     }
