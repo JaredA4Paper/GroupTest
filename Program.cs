@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World form Jared");
+            Console.WriteLine("Hello, World form Logan");
         }
     }
 }
